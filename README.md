@@ -1,8 +1,6 @@
-# libft
+# libft ✅125/100
 
 Libft is a coding project I completed as part of my studies at Hive Helsinki, where I recreated key functions from the C standard library. The aim was to gain a deep understanding of how fundamental functions work by building them entirely from scratch. For this project, I was limited to using only three built-in functions: `malloc`, `free`, and `write`.
-
-✅ I scored 125/100 on the project
 
 ## Table of Contents
 - [Getting Started](#getting-started)
